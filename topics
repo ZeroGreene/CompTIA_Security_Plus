@@ -1,2 +1,44 @@
 CompTIA Security+ topics are organized into five core domains: General Security Concepts, covering foundational principles like CIA and cryptographic solutions; Threats, Vulnerabilities, and Mitigations, focusing on various attacks, malware, and indicators of compromise; Security Architecture, which involves designing and applying secure network and infrastructure models; Security Operations, encompassing tasks like identity and access management, vulnerability management, and incident response; and Security Program Management and Oversight, addressing risk management, governance, and compliance.  
 Here is a breakdown of topics within each domain for the CompTIA Security+ SY0-701 exam:
+
+
+Here is a breakdown of topics within each domain for the CompTIA Security+ SY0-701 exam:
+
+1. General Security Concepts 
+Fundamental security concepts: Including confidentiality, integrity, availability (CIA), zero trust, and non-repudiation.
+Security controls: Applying administrative, technical, and physical controls.
+Change management: Understanding business and technical implications of change.
+Cryptographic solutions: Implementing and understanding various encryption methods
+
+
+2. Threats, Vulnerabilities, and Mitigations 
+Threat actors: Identifying different types of threat actors and their motivations.
+Threat vectors and attack surfaces: Understanding how threats reach their targets.
+Vulnerabilities: Identifying and classifying different types of vulnerabilities.
+Indicators of compromise: Analyzing indicators of malicious activity.
+Mitigation techniques: Implementing techniques to reduce or eliminate threats.
+Malware: Recognizing different types of malware, such as ransomware, worms, and trojans.
+
+
+3. Security Architecture
+Architecture models: Understanding secure architectures for enterprise infrastructure. 
+Secure design principles: Applying security principles to enterprise infrastructure and systems. 
+Protecting data: Implementing strategies to protect data throughout its lifecycle. 
+Resiliency and recovery: Understanding the importance of resiliency and recovery in a security context. 
+
+
+4. Security Operations 
+Security operations: Managing security controls and protecting computing resources.
+Asset management: Identifying and managing security for various assets.
+Vulnerability management: Conducting vulnerability scans and implementing remediation.
+Alerting and monitoring: Implementing alerting, monitoring, and incident response procedures.
+Identity and access management (IAM): Implementing and managing IAM controls.
+Automation and orchestration: Using automation and orchestration to enhance security operations.
+
+
+5. Security Program Management and Oversight 
+Governance: Implementing and managing security governance principles.
+Risk management: Applying risk management processes and frameworks.
+Compliance: Understanding compliance requirements and audit processes.
+Third-party risk management: Assessing and managing risks associated with third-party integrations.
+Security training and awareness: Understanding the importance of security awareness and training for users.
